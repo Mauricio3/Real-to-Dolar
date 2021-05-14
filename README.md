@@ -1,6 +1,6 @@
 # real_para_dolar
 
-Converte real para dolar
+Find out the value of reais in dollars
 
 ## Getting Started
 
